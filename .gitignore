@@ -2,10 +2,12 @@
 /target/
 .classpath
 .project
+bin/
 
 */.settings/
 */target/
 */.classpath
 */.project
+*/bin/
 
 */dependency-reduced-pom.xml
